@@ -1,0 +1,8 @@
+.metapress-restricted-access,
+.metapress-checkout-access {
+  padding: 20px;
+  background: #fafafa;
+  border: 1px solid #eeeeee;
+  border-radius: 6px;
+  margin: 25px auto;
+}
